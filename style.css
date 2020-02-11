@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h1,h3{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+#lastpar{
+    text-transform: capitalize;
+}
+
+li:first-letter{
+    text-transform: capitalize;
+}
+
+.halfbold{
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+.bold{
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 30px;
+}
+
+.center{
+    text-align: center;
+}
+
+.formnoun{
+    text-transform: capitalize;
+}
+
+.halfcaps{
+    text-transform: uppercase;
+}
+
+.right{
+    float:right;
+}
